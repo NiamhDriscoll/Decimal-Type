@@ -21,7 +21,7 @@ int main(void) {
 	return 0;
 }
 
-//fifo or lifo????
+
 float decimal_to_float(decimal x) {
     int value = x.value;
     std::string result;
