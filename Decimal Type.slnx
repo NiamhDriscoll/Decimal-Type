@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Decimal Type/Decimal Type.vcxproj" Id="730c3450-dd56-440c-a1c7-4ff501ee860a" />
+</Solution>
