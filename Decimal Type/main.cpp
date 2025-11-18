@@ -8,7 +8,7 @@ typedef struct decimal
 {
     int value;
     int point;
-	bool is_negative;
+
 } decimal;
 
 float decimal_to_float(decimal x);
